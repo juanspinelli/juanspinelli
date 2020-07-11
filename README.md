@@ -72,3 +72,10 @@ https://medium.com/@jmspinelliok
 [![Gremlin](https://raw.githubusercontent.com/juanspinelli/images/master/gremlin_1.jpeg)](https://medium.com/@jmspinelliok/gremlin-cypher-neo4j-experimento-de-s%C3%A1bado-por-la-noche-bd49475fbe9a)
 
 [![Terraform](https://raw.githubusercontent.com/juanspinelli/images/master/terraform_1.jpeg)](https://medium.com/@jmspinelliok/jenkins-terraform-localstack-etc-trabajar-infraestructura-como-c%C3%B3digo-con-integraci%C3%B3n-continua-6eae7d7b59cc)
+
+# Hobbies
+
+- Ajedrez, Blogging, Bateria / Bajo, investigar nuevas tecnologias.
+
+# Un poco de música
+![Watch the video](https://www.youtube.com/embed/Bjzvpd1mo8Q)
