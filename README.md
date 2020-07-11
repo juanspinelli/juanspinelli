@@ -75,7 +75,12 @@ https://medium.com/@jmspinelliok
 
 # Hobbies
 
-- Ajedrez, Blogging, Bateria / Bajo, investigar nuevas tecnologias.
+- Ajedrez, Blogging, investigar nuevas tecnologias.
 
-# Un poco de música
+# Mayor Hobbie
+
+- La música, Bateria / Bajo
+
+### Click en la imagen para escuchar un buen tema
+
 [![Watch the video](https://raw.githubusercontent.com/juanspinelli/images/master/eterna_1.jpeg)](https://www.youtube.com/watch?v=Bjzvpd1mo8Q)
