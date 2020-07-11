@@ -42,7 +42,7 @@ May. de 2019 – actualidad | Duración del empleo 1 año y 3 meses | Ubicación
 
 ### Python para Data Sciences
 
-- Temas: Python, Matplotlib, Seaborn, Plotly (libreria + web), Bokeh, creacion de un dashboard usando la api de Spotify y la version web de Plotly, Flask + Ngrok, clusters, Spark, Parquet, Git, Github, Docker, casos reales de proyetos en empresas, web scraping, 
+- Temas: Python, Matplotlib, Seaborn, Plotly (libreria + web), Bokeh, creacion de un dashboard usando la api de Spotify y la version web de Plotly, Flask + Ngrok, clusters, Spark, Parquet, Git, Github, Docker, casos reales de proyetos en empresas, web scraping.
 
 ![Aegis](https://raw.githubusercontent.com/juanspinelli/images/master/aegis.jpeg)
 
