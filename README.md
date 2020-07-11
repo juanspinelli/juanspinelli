@@ -75,7 +75,7 @@ https://medium.com/@jmspinelliok
 
 # Hobbies
 
-- Ajedrez, Blogging, investigar nuevas tecnologias, la música, recitales, Bateria / Bajo
+- Ajedrez, Blogging, investigar nuevas tecnologias, música, recitales, Bateria / Bajo
 
 ### Click en la imagen para escuchar un buen tema
 
