@@ -78,4 +78,4 @@ https://medium.com/@jmspinelliok
 - Ajedrez, Blogging, Bateria / Bajo, investigar nuevas tecnologias.
 
 # Un poco de música
-[![Watch the video](https://raw.githubusercontent.com/juanspinelli/images/master/eterna.png)](https://www.youtube.com/watch?v=Bjzvpd1mo8Q)
+[![Watch the video](https://raw.githubusercontent.com/juanspinelli/images/master/eterna_1.jpeg)](https://www.youtube.com/watch?v=Bjzvpd1mo8Q)
