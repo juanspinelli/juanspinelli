@@ -63,7 +63,7 @@ Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicaci
 <b>Utn Buenos Aires</b> Diplomatura en Programación .NET | Fechas de estudios 2017 – 2018<br>
 <b>Utn Córdoba</b> Tecnicatura en programación | Fechas de estudios 2013 – 2015<br>
 
-# Adicional
+# Posteos
 
 https://medium.com/@jmspinelliok
 
