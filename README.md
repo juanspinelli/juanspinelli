@@ -13,7 +13,6 @@
 May. de 2019 – actualidad | Duración del empleo 1 año y 3 meses | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
-- Desarrollo de arquitectura en la nube
 - Procesos Etl
 - Manejo de containers
 - Sql, NoSql, curación de datos
