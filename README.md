@@ -19,6 +19,8 @@ May. de 2019 – actualidad | Duración del empleo 1 año y 3 meses | Ubicación
 - Sql, NoSql, curación de datos
 - Data Lake
 - Elaboracion, soporte y capacitación de nuevos ingresos (Data Engineer)
+- Arquitectura Aws
+- Definición, ejecución y monitoreo de flujos de trabajo con Airflow
 - Otros
 
 ![Acamica](https://raw.githubusercontent.com/juanspinelli/images/master/acamica.png)
