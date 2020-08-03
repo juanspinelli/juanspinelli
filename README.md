@@ -74,6 +74,8 @@ https://medium.com/@jmspinelliok
 
 [![Terraform](https://raw.githubusercontent.com/juanspinelli/images/master/terraform_1.jpeg)](https://medium.com/@jmspinelliok/jenkins-terraform-localstack-etc-trabajar-infraestructura-como-c%C3%B3digo-con-integraci%C3%B3n-continua-6eae7d7b59cc)
 
+[![Mis stats de github](https://github-readme-stats.vercel.app/api?username=juanspinelli)](https://github.com/juanspinelli/github-readme-stats)
+
 # Hobbies
 
 - Ajedrez, Blogging, investigar nuevas tecnologias, música, recitales, Bateria / Bajo
