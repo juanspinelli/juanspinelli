@@ -74,7 +74,7 @@ https://medium.com/@jmspinelliok
 
 [![Terraform](https://raw.githubusercontent.com/juanspinelli/images/master/terraform_1.jpeg)](https://medium.com/@jmspinelliok/jenkins-terraform-localstack-etc-trabajar-infraestructura-como-c%C3%B3digo-con-integraci%C3%B3n-continua-6eae7d7b59cc)
 
-### Algunas estadísticas
+# Algunas estadísticas
 
 <a href="https://github.com/juanspinelli/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanspinelli&show_icons=true" />
