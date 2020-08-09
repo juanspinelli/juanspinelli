@@ -30,7 +30,6 @@ May. de 2019 – actualidad | Duración del empleo 1 año y 3 meses | Ubicación
 
 <b>DS-COR-7</b> Sept. de 2019 – mar. de 2020 | Duración del empleo 7 meses | Ubicación Provincia de Córdoba, Argentina
 
-- Implementación, planificación, desarrollo de la clase
 - Implementación, planificación y desarrollo de la clase
 - Resolución de dudas individuales o generalizadas
 - Favorecer el reconocimiento, distinción y aplicación de conceptos teóricos en la práctica.
