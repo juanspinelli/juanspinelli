@@ -89,10 +89,10 @@ https://medium.com/@jmspinelliok
 # Algunos cursos realizados
 
 - Udemy: 
--- Continuous integration with Jenkins
--- Docker Essentials
--- Kubernetes, de principiante a experto (Minikube)
--- Ultimate AWS Certified Solutions Architect Associate 2020
+- Continuous integration with Jenkins
+- Docker Essentials
+- Kubernetes, de principiante a experto (Minikube)
+- Ultimate AWS Certified Solutions Architect Associate 2020
 
 
 # Hobbies
