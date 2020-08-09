@@ -2,7 +2,6 @@
 ![Cloud](https://img.shields.io/badge/Cloud-Aws-informational?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-Nifi%20%2F%20Pentaho%20%2F%20PySpark-yellowgreen?style=for-the-badge)
 ![Containers](https://img.shields.io/badge/Containers-Docker%20%2F%20Minikube-blue?style=for-the-badge)
-![IAAC](https://img.shields.io/badge/IACC-Terraform-blueviolet?style=for-the-badge)
 ![Bd](https://img.shields.io/badge/BD-Sql%20%2F%20NoSql-yellow?style=for-the-badge)
 ![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Airflow%20%2F%20Kafka%20%2F%20Gcp%20%2F%20Data%20Science%20%2F%20Jenkins-orange?style=for-the-badge)
 
