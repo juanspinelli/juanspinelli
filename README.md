@@ -9,7 +9,7 @@
 
 ![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.jpeg)
 
-May. de 2019 – actualidad | Duración del empleo 1 año y 3 meses | Ubicación Provincia de Córdoba, Argentina
+May. de 2019 – actualidad | Duración del empleo 1 año y 4 meses | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
 - Procesos Etl
