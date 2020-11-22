@@ -7,6 +7,8 @@
 
 # Experiencia Laboral
 
+![Fligoo](https://raw.githubusercontent.com/juanspinelli/images/master/fligoo.jpeg)
+
 ![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.jpeg)
 
 May. de 2019 – actualidad | Duración del empleo 1 año y 4 meses | Ubicación Provincia de Córdoba, Argentina
@@ -20,6 +22,8 @@ May. de 2019 – actualidad | Duración del empleo 1 año y 4 meses | Ubicación
 - Arquitectura Aws
 - Definición, ejecución y monitoreo de flujos de trabajo con Airflow
 - Otros
+
+![Icaro](https://raw.githubusercontent.com/juanspinelli/images/master/icaro.jpeg)
 
 ![Acamica](https://raw.githubusercontent.com/juanspinelli/images/master/acamica.png)
 
