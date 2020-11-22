@@ -9,9 +9,18 @@
 
 ![Fligoo](https://raw.githubusercontent.com/juanspinelli/images/master/fligoo.jpeg)
 
+Oct. de 2020 – actualidad | Ubicación Provincia de Córdoba, Argentina
+
+- Ingeniería de datos
+- Procesos Etl
+- Manejo de containers
+- Docker, Ecs, Eks
+- Terraform
+- Aws
+
 ![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.jpeg)
 
-May. de 2019 – actualidad | Duración del empleo 1 año y 4 meses | Ubicación Provincia de Córdoba, Argentina
+May. de 2019 – Oct. de 2020 | Duración del empleo 1 año y 8 meses | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
 - Procesos Etl
@@ -25,13 +34,25 @@ May. de 2019 – actualidad | Duración del empleo 1 año y 4 meses | Ubicación
 
 ![Icaro](https://raw.githubusercontent.com/juanspinelli/images/master/icaro.jpeg)
 
+<b>Comisión Septiembre</b> Sept. de 2020 – Oct. de 2020 | Duración del empleo 1 meses | Ubicación Provincia de Córdoba, Argentina
+
+Mentor de estudiantes Curso Base de datos Comisión Septiembre
+
+- Desarrollo y dictado del curso de Bases de datos (Mysql)
+
+<b>Comisión Julio</b> Jul. de 2020 – Ago. de 2020 | Duración del empleo 1 meses | Ubicación Provincia de Córdoba, Argentina
+
+Mentor de estudiantes Curso Base de datos Comisión Julio
+
+- Desarrollo y dictado del curso de Bases de datos (Mysql)
+
 ![Acamica](https://raw.githubusercontent.com/juanspinelli/images/master/acamica.png)
 
 ## Mentor Data Science de las comisiones DS-COR-36 y DS-COR-7
 
 <b>DS-COR-36</b> Jun. de 2020 – Actualidad | Ubicación Provincia de Córdoba, Argentina
 
-<b>DS-COR-7</b> Sept. de 2019 – mar. de 2020 | Duración del empleo 7 meses | Ubicación Provincia de Córdoba, Argentina
+<b>DS-COR-7</b> Sept. de 2019 – Mar. de 2020 | Duración del empleo 7 meses | Ubicación Provincia de Córdoba, Argentina
 
 - Implementación, planificación y desarrollo de la clase
 - Resolución de dudas individuales o generalizadas
