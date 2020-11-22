@@ -50,7 +50,7 @@ Mentor de estudiantes Curso Base de datos Comisión Julio
 
 ## Mentor Data Science de las comisiones DS-COR-36 y DS-COR-7
 
-<b>DS-COR-36</b> Jun. de 2020 – Actualidad | Ubicación Provincia de Córdoba, Argentina
+<b>DS-COR-36</b> May. de 2020 – Ago. de 2020 | Duración del empleo 4 meses | Ubicación Provincia de Córdoba, Argentina
 
 <b>DS-COR-7</b> Sept. de 2019 – Mar. de 2020 | Duración del empleo 7 meses | Ubicación Provincia de Córdoba, Argentina
 
