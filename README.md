@@ -7,40 +7,58 @@
 
 # Experiencia Laboral
 
+![MercadoLibre](https://raw.githubusercontent.com/juanspinelli/images/master/meli.png)
+
+Mar. de 2021 – Actualidad | Ubicación Provincia de Córdoba, Argentina
+
 ![Fligoo](https://raw.githubusercontent.com/juanspinelli/images/master/fligoo.png)
 
-Oct. de 2020 – actualidad | Ubicación Provincia de Córdoba, Argentina
+Oct. de 2020 – Feb. de 2021 | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
-- Procesos Etl
-- Manejo de containers
-- Docker, Ecs, Eks
+- Ingesta y transferencia de datos
+- Deploy de tableros
+- Arquitectura Aws
+- Manejo de run containers y orquestadores
 - Terraform
-- Aws
+- Creación de test técnicos y entrevistas de selección (Data Engineer / Devops)
 
 ![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.png)
 
-May. de 2019 – Oct. de 2020 | Duración del empleo 1 año y 8 meses | Ubicación Provincia de Córdoba, Argentina
+May. de 2019 – Oct. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
 - Procesos Etl
 - Manejo de containers
 - Sql, NoSql, curación de datos
-- Data Lake
 - Elaboracion, soporte y capacitación de nuevos ingresos (Data Engineer)
 - Arquitectura Aws
 - Definición, ejecución y monitoreo de flujos de trabajo con Airflow
 - Otros
 
+![Aegis](https://raw.githubusercontent.com/juanspinelli/images/master/aegis.png)
+
+Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicación Provincia de Córdoba, Argentina
+
+- Creación del área Did (Diseño, innovación y desarrollo)
+- Desarrollo de Intranet Interna Argentina
+- Aplicaciones de gestión operativa
+- Aplicaciones de comunicación interna
+- Reportería general
+- Implementación, seguimiento y administración del sitio.
+- Diseño y administración de la db.
+
+# Temporale, mentorias
+
 ![Icaro](https://raw.githubusercontent.com/juanspinelli/images/master/icaro.jpeg)
 
-<b>Comisión Septiembre</b> Sept. de 2020 – Oct. de 2020 | Duración del empleo 1 meses | Ubicación Provincia de Córdoba, Argentina
+<b>Comisión Septiembre</b> Sept. de 2020 – Oct. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 Mentor de estudiantes Curso Base de datos Comisión Septiembre
 
 - Desarrollo y dictado del curso de Bases de datos (Mysql)
 
-<b>Comisión Julio</b> Jul. de 2020 – Ago. de 2020 | Duración del empleo 1 meses | Ubicación Provincia de Córdoba, Argentina
+<b>Comisión Julio</b> Jul. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 Mentor de estudiantes Curso Base de datos Comisión Julio
 
@@ -50,9 +68,9 @@ Mentor de estudiantes Curso Base de datos Comisión Julio
 
 ## Mentor Data Science de las comisiones DS-COR-36 y DS-COR-7
 
-<b>DS-COR-36</b> May. de 2020 – Ago. de 2020 | Duración del empleo 4 meses | Ubicación Provincia de Córdoba, Argentina
+<b>DS-COR-36</b> May. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
-<b>DS-COR-7</b> Sept. de 2019 – Mar. de 2020 | Duración del empleo 7 meses | Ubicación Provincia de Córdoba, Argentina
+<b>DS-COR-7</b> Sept. de 2019 – Mar. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 - Implementación, planificación y desarrollo de la clase
 - Resolución de dudas individuales o generalizadas
@@ -67,19 +85,6 @@ Mentor de estudiantes Curso Base de datos Comisión Julio
 ### Python para Data Sciences
 
 - Temas: Python, Matplotlib, Seaborn, Plotly (libreria + web), Bokeh, creacion de un dashboard usando la api de Spotify y la version web de Plotly, Flask + Ngrok, clusters, Spark, Parquet, Git, Github, Docker, casos reales de proyetos en empresas, web scraping.
-
-![Aegis](https://raw.githubusercontent.com/juanspinelli/images/master/aegis.png)
-
-Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicación Provincia de Córdoba, Argentina
-
-- Creación del área Did (Diseño, innovación y desarrollo)
-- Desarrollo de Intranet Interna Argentina
-- Aplicaciones de gestión operativa
-- Aplicaciones de comunicación interna
-- Reportería general
-- Implementación, seguimiento y administración del sitio.
-- Diseño y administración de la db.
-- Algunas de las tecnologías utilizadas: Php, Mysql, Jquery, Json, Ajax, css3, sass, Materialize, bootstrap 3 y 4,
 
 # Estudios
 
