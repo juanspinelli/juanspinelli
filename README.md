@@ -18,7 +18,7 @@ Oct. de 2020 – actualidad | Ubicación Provincia de Córdoba, Argentina
 - Terraform
 - Aws
 
-![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.jpeg)
+![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.png)
 
 May. de 2019 – Oct. de 2020 | Duración del empleo 1 año y 8 meses | Ubicación Provincia de Córdoba, Argentina
 
@@ -68,7 +68,7 @@ Mentor de estudiantes Curso Base de datos Comisión Julio
 
 - Temas: Python, Matplotlib, Seaborn, Plotly (libreria + web), Bokeh, creacion de un dashboard usando la api de Spotify y la version web de Plotly, Flask + Ngrok, clusters, Spark, Parquet, Git, Github, Docker, casos reales de proyetos en empresas, web scraping.
 
-![Aegis](https://raw.githubusercontent.com/juanspinelli/images/master/aegis.jpeg)
+![Aegis](https://raw.githubusercontent.com/juanspinelli/images/master/aegis.png)
 
 Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicación Provincia de Córdoba, Argentina
 
