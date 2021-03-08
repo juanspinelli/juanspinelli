@@ -7,7 +7,7 @@
 
 # Experiencia Laboral
 
-![MercadoLibre](https://raw.githubusercontent.com/juanspinelli/images/master/meli.png)
+![MercadoLibre](https://raw.githubusercontent.com/juanspinelli/images/master/meli_2.png)
 
 Mar. de 2021 – Actualidad | Ubicación Provincia de Córdoba, Argentina
 
