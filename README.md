@@ -7,7 +7,7 @@
 
 # Experiencia Laboral
 
-![Fligoo](https://raw.githubusercontent.com/juanspinelli/images/master/fligoo.jpeg)
+![Fligoo](https://raw.githubusercontent.com/juanspinelli/images/master/fligoo.png)
 
 Oct. de 2020 – actualidad | Ubicación Provincia de Córdoba, Argentina
 
