@@ -41,6 +41,8 @@ May. de 2019 – Oct. de 2020 | Ubicación Provincia de Córdoba, Argentina
 - Definición, ejecución y monitoreo de flujos de trabajo con Airflow
 - Otros
 
+---
+
 ![Aegis](https://raw.githubusercontent.com/juanspinelli/images/master/aegis.png)
 
 Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicación Provincia de Córdoba, Argentina
@@ -53,28 +55,27 @@ Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicaci
 - Implementación, seguimiento y administración del sitio.
 - Diseño y administración de la db.
 
+---
+
 # Temporale, mentorias
 
 ![Icaro](https://raw.githubusercontent.com/juanspinelli/images/master/icaro.jpeg)
 
+<b>Comisión Septiembre</b> Feb. de 2021 – Mar. de 2021 | Ubicación Provincia de Córdoba, Argentina
 <b>Comisión Septiembre</b> Sept. de 2020 – Oct. de 2020 | Ubicación Provincia de Córdoba, Argentina
+<b>Comisión Julio</b> Jul. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 Mentor de estudiantes Curso Base de datos Comisión Septiembre
 
 - Desarrollo y dictado del curso de Bases de datos (Mysql)
 
-<b>Comisión Julio</b> Jul. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
-
-Mentor de estudiantes Curso Base de datos Comisión Julio
-
-- Desarrollo y dictado del curso de Bases de datos (Mysql)
+---
 
 ![Acamica](https://raw.githubusercontent.com/juanspinelli/images/master/acamica.png)
 
-## Mentor Data Science de las comisiones DS-COR-36 y DS-COR-7
+## Mentor Data Science
 
 <b>DS-COR-36</b> May. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
-
 <b>DS-COR-7</b> Sept. de 2019 – Mar. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 - Implementación, planificación y desarrollo de la clase
@@ -85,7 +86,7 @@ Mentor de estudiantes Curso Base de datos Comisión Julio
 - Diseño de clase para la carrera de ciencia de datos.
 - Diseño de taller de ciencia de datos para empresas.
 
-## Workshops
+## Workshops Acamica
 
 ### Python para Data Sciences
 
@@ -95,7 +96,7 @@ Mentor de estudiantes Curso Base de datos Comisión Julio
 
 <b>Acámica</b> Data Science | Fechas de estudios 2019 – 2019<br>
 <b>Utn Buenos Aires</b> Diplomatura en Programación .NET | Fechas de estudios 2017 – 2018<br>
-<b>Utn Córdoba</b> Tecnicatura en programación | Fechas de estudios 2013 – 2015<br>
+<b>Utn Córdoba</b> Tecnicatura en programación | Fechas de estudios 2013 – 2015 (1 materia pendiente, ya inscripto para cursarla en 08/2021)<br>
 
 # Credenciales AWS Roadshow Virtual 2020 Bootcamp Institute
 
