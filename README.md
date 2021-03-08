@@ -1,7 +1,7 @@
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-success?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-Aws-informational?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-Nifi%20%2F%20Pentaho%20%2F%20PySpark-yellowgreen?style=for-the-badge)
-![Containers](https://img.shields.io/badge/Containers-Docker%20%2F%20Minikube-blue?style=for-the-badge)
+![Containers](https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge)
 ![Bd](https://img.shields.io/badge/BD-Sql%20%2F%20NoSql-yellow?style=for-the-badge)
 ![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Airflow%20%2F%20Kafka%20%2F%20Gcp%20%2F%20Data%20Science%20%2F%20Jenkins-orange?style=for-the-badge)
 
@@ -27,6 +27,8 @@ Oct. de 2020 – Feb. de 2021 | Ubicación Provincia de Córdoba, Argentina
 - Manejo de run containers y orquestadores
 - Terraform
 - Creación de test técnicos y entrevistas de selección (Data Engineer / Devops)
+
+---
 
 ![Corebi](https://raw.githubusercontent.com/juanspinelli/images/master/corebi.png)
 
@@ -57,12 +59,12 @@ Mar. de 2015 – May. de 2019 | Duración del empleo 4 años y 3 meses | Ubicaci
 
 ---
 
-# Temporale, mentorias
+# Temporales, mentorias
 
 ![Icaro](https://raw.githubusercontent.com/juanspinelli/images/master/icaro.jpeg)
 
-<b>Comisión Septiembre</b> Feb. de 2021 – Mar. de 2021 | Ubicación Provincia de Córdoba, Argentina
-<b>Comisión Septiembre</b> Sept. de 2020 – Oct. de 2020 | Ubicación Provincia de Córdoba, Argentina
+<b>Comisión Septiembre</b> Feb. de 2021 – Mar. de 2021 | Ubicación Provincia de Córdoba, Argentina<br>
+<b>Comisión Septiembre</b> Sept. de 2020 – Oct. de 2020 | Ubicación Provincia de Córdoba, Argentina<br>
 <b>Comisión Julio</b> Jul. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 Mentor de estudiantes Curso Base de datos Comisión Septiembre
@@ -75,7 +77,7 @@ Mentor de estudiantes Curso Base de datos Comisión Septiembre
 
 ## Mentor Data Science
 
-<b>DS-COR-36</b> May. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina
+<b>DS-COR-36</b> May. de 2020 – Ago. de 2020 | Ubicación Provincia de Córdoba, Argentina<br>
 <b>DS-COR-7</b> Sept. de 2019 – Mar. de 2020 | Ubicación Provincia de Córdoba, Argentina
 
 - Implementación, planificación y desarrollo de la clase
