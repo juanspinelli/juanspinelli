@@ -88,11 +88,15 @@ Mentor de estudiantes Curso Base de datos Comisión Septiembre
 - Diseño de clase para la carrera de ciencia de datos.
 - Diseño de taller de ciencia de datos para empresas.
 
+---
+
 ## Workshops Acamica
 
 ### Python para Data Sciences
 
 - Temas: Python, Matplotlib, Seaborn, Plotly (libreria + web), Bokeh, creacion de un dashboard usando la api de Spotify y la version web de Plotly, Flask + Ngrok, clusters, Spark, Parquet, Git, Github, Docker, casos reales de proyetos en empresas, web scraping.
+
+---
 
 # Estudios
 
@@ -100,9 +104,13 @@ Mentor de estudiantes Curso Base de datos Comisión Septiembre
 <b>Utn Buenos Aires</b> Diplomatura en Programación .NET | Fechas de estudios 2017 – 2018<br>
 <b>Utn Córdoba</b> Tecnicatura en programación | Fechas de estudios 2013 – 2015 (1 materia pendiente, ya inscripto para cursarla en 08/2021)<br>
 
+---
+
 # Credenciales AWS Roadshow Virtual 2020 Bootcamp Institute
 
 https://www.credential.net/profile/juanspinelli230024/wallet
+
+---
 
 # Posteos
 
@@ -114,6 +122,8 @@ https://medium.com/@jmspinelliok
 
 [![Terraform](https://raw.githubusercontent.com/juanspinelli/images/master/terraform_1.jpeg)](https://medium.com/@jmspinelliok/jenkins-terraform-localstack-etc-trabajar-infraestructura-como-c%C3%B3digo-con-integraci%C3%B3n-continua-6eae7d7b59cc)
 
+---
+
 # Algunas estadísticas
 
 <a href="https://github.com/juanspinelli/github-readme-stats">
@@ -122,7 +132,8 @@ https://medium.com/@jmspinelliok
 <a href="https://github.com/juanspinelli/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanspinelli&layout=compact)](https://github.com/juanspinelli/github-readme-stats" />
 </a>
-<br>
+
+---
 
 # Algunos cursos realizados en Udemy
 
@@ -132,11 +143,16 @@ https://medium.com/@jmspinelliok
 - Ultimate AWS Certified Solutions Architect Associate 2020
 - Etc
 
+---
 
 # Hobbies
 
 - Ajedrez, Blogging, investigar nuevas tecnologias, música, recitales, Bateria / Bajo
 
+---
+
 ### Click en la imagen para escuchar un buen tema
 
 [![Watch the video](https://raw.githubusercontent.com/juanspinelli/images/master/eterna_2.jpg)](https://www.youtube.com/watch?v=kuFB73iPErk&list=PLh8XLFPWPZeShiG0LybfH5wAGgUnx3WTH&index=4)
+
+---
