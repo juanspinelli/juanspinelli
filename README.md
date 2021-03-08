@@ -126,4 +126,4 @@ https://medium.com/@jmspinelliok
 
 ### Click en la imagen para escuchar un buen tema
 
-[![Watch the video](https://raw.githubusercontent.com/juanspinelli/images/master/eterna_2.jpg)](https://www.youtube.com/watch?v=Bjzvpd1mo8Q)
+[![Watch the video](https://raw.githubusercontent.com/juanspinelli/images/master/eterna_2.jpg)](https://www.youtube.com/watch?v=kuFB73iPErk&list=PLh8XLFPWPZeShiG0LybfH5wAGgUnx3WTH&index=4)
