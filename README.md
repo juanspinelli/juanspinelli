@@ -11,6 +11,9 @@
 
 Mar. de 2021 – Actualidad | Ubicación Provincia de Córdoba, Argentina
 
+- Ingeniería de datos
+- Ingesta y transferencia de datos
+
 ![Fligoo](https://raw.githubusercontent.com/juanspinelli/images/master/fligoo.png)
 
 Oct. de 2020 – Feb. de 2021 | Ubicación Provincia de Córdoba, Argentina
