@@ -71,6 +71,8 @@ Mentor de estudiantes Curso Base de datos Comisión Septiembre
 
 - Desarrollo y dictado del curso de Bases de datos (Mysql)
 
+Repo: https://github.com/juanspinelli/curso_mysql
+
 ---
 
 ![Acamica](https://raw.githubusercontent.com/juanspinelli/images/master/acamica.png)
