@@ -7,6 +7,16 @@
 
 # Experiencia Laboral
 
+![Uala](https://raw.githubusercontent.com/juanspinelli/images/master/uala.png)
+
+Feb. de 2022 – Actualidad | Ubicación Provincia de Córdoba, Argentina
+
+- Ingeniería de datos
+- Ingesta y transferencia de datos
+- Procesos Cloud, automatizaciones.
+
+---
+
 ![MercadoLibre](https://raw.githubusercontent.com/juanspinelli/images/master/meli_2.png)
 
 Mar. de 2021 – Feb. de 2022 | Ubicación Provincia de Córdoba, Argentina
