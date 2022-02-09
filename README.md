@@ -3,7 +3,7 @@
 ![ETL](https://img.shields.io/badge/ETL-Airflow%20%2F%20Nifi%20%2F%20Pentaho%20%2F%20PySpark-yellowgreen?style=for-the-badge)
 ![Containers](https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge)
 ![Bd](https://img.shields.io/badge/BD-Sql%20%2F%20NoSql-yellow?style=for-the-badge)
-![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Kafka%20%2F%20Gcp%20%2F%20Data%20Science%20%2F%20Jenkins-orange?style=for-the-badge)
+![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Kafka%20%2F%20Jenkins-orange?style=for-the-badge)
 
 # Experiencia Laboral
 
