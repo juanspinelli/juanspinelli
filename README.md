@@ -7,7 +7,7 @@
 
 # Experiencia Laboral
 
-![Uala](https://raw.githubusercontent.com/juanspinelli/images/master/uala.png)
+![Uala](https://raw.githubusercontent.com/juanspinelli/images/master/uala_2.png)
 
 Feb. de 2022 – Actualidad | Ubicación Provincia de Córdoba, Argentina
 
