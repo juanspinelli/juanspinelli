@@ -1,5 +1,6 @@
 ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-success?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Aws-informational Gcp?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-Aws-informational?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Gcp-GCP-blue?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-Nifi%20%2F%20Pentaho%20%2F%20PySpark-yellowgreen?style=for-the-badge)
 ![Containers](https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge)
 ![Bd](https://img.shields.io/badge/BD-Sql%20%2F%20NoSql-yellow?style=for-the-badge)
