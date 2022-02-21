@@ -13,7 +13,8 @@ Feb. de 2022 – Actualidad | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
 - Ingesta y transferencia de datos
-- Procesos Cloud, automatizaciones.
+- Procesos Cloud, automatizaciones
+- GCP
 
 ---
 
@@ -25,6 +26,7 @@ Mar. de 2021 – Feb. de 2022 | Ubicación Provincia de Córdoba, Argentina
 - Ingesta y transferencia de datos
 - Performance Apis
 - Performance y costos cloud services
+- AWS y GCP
 
 ---
 
