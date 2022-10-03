@@ -123,7 +123,7 @@ Repo: https://github.com/juanspinelli/curso_mysql
 
 ---
 
-# Credenciales AWS Roadshow Virtual 2020 Bootcamp Institute
+# Credenciales
 
 https://www.credential.net/profile/juanspinelli230024/wallet
 
