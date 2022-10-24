@@ -13,9 +13,11 @@ Feb. de 2022 – Actualidad | Ubicación Provincia de Córdoba, Argentina
 
 - Ingeniería de datos
 - Ingesta y transferencia de datos
-- Procesos Cloud, automatizaciones
-- Great Expectations, Soda Sql, Dbt
-- GCP (Composer, GKE, Container Registry, Cloud Run, Storage, etc)
+- Procesos Cloud
+- Automatizaciones (Terraform, Terragrunt, Github Actions)
+- Data Quality (Great Expectations, Soda Core)
+- ELT (Dbt)
+- ETL (Composer, GKE, Artifact Registry, Cloud Run, Storage, Cloud Sql, etc)
 
 ---
 
